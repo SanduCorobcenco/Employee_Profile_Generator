@@ -11,7 +11,7 @@
 * [Contributor](#Contributor)
 * [LinkedIn-profile](#LinkedIn-profile)
 * [GitHub-profile](#GitHub-profile)
-* [Website)](#Website)
+
 
 
    
@@ -46,5 +46,3 @@ https://www.linkedin.com/in/sandu-corobcenco-527131165/
 ### GitHub profile:
 https://github.com/SanduCorobcenco
 
-### GitHub Yo:
-https://sanducorobcenco.github.io/Employee_Profile_Generator/
