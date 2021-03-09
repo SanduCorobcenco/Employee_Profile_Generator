@@ -11,6 +11,7 @@
 * [Contributor](#Contributor)
 * [LinkedIn-profile](#LinkedIn-profile)
 * [GitHub-profile](#GitHub-profile)
+* [Website](#Website)
 
 
 
@@ -39,10 +40,12 @@ MIT
 ### Contributor:
 Sandu Corobcenco
 
-
 ### LinkedIn profile:
 https://www.linkedin.com/in/sandu-corobcenco-527131165/
 
 ### GitHub profile:
 https://github.com/SanduCorobcenco
+
+### Website:
+https://sanducorobcenco.github.io/Employee_Profile_Generator/
 
